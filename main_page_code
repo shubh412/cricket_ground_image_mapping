@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title >
+            Cricket Playground
+        </title>
+        <meta name="viewport" content="device-width,initial-scale=1"/>
+        <header style="text-align: center;font-size: 40px; font-family: 'Times New Roman', Times, serif;">
+            <u><b>Cricket ground</b></u><br>
+            <u>(hover on wicketkeeper, cover, midwicket in second image)</u>
+        </header>
+    </head>
+    <body style="text-align: center;background-image: url(https://media-cdn.tripadvisor.com/media/photo-s/17/4c/b1/20/the-plain-and-short-grass.jpg);background-repeat: no-repeat;background-attachment: fixed;
+    background-size: cover;">
+        <img src="https://lh3.googleusercontent.com/proxy/CfUmGtP05YPHRh8uozSjuVV4PSKJDUJZ-K8ncpWHV9CW8pHuyatrbWSc688dO2oB30mIuXFvDaMqMmZgUoAZN9a5mMHvBg8nGdhRIHvPgVxU-7MVey3YfjhWG0DB63M-gDWvkqQLblAug8ugShs_2elb-ho"
+        alt="Workplace" width="550px" height="500px">
+        <img src="image.jpg" 
+        alt="workmapplace" usemap="#workmap" width="500px" height="500px">
+
+        <map name="workmap">
+            <area shape="circle" coords="250,150,9" alt="msd" href="msd.html" target="_blank">
+            <area shape="rect" coords="322,260,343,279" alt="virat" href="virat.html" target="_blank">
+            <area shape="poly" coords="174,258,188,266,187,280,174,288,162,280,163,266" alt="rohit" href="rohit.html" target="_blank">
+        </map>
+
+    </body>
+</html>
