@@ -1,0 +1,1 @@
+# cricket_ground_image_mapping
