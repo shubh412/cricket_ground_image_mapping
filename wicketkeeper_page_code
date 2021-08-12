@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> MSD</title>
+        <header style="text-align: center;font-size: 30px; font-family: 'Times New Roman', Times, serif;">
+            <u><b> Wicketkeeper = M.S Dhoni</b></u> </header>
+    </head>
+    
+
+   
+    <body style="text-align: center;background-image:url(https://cdn.britannica.com/47/148847-050-C4FB5341/Cricket-bat-ball.jpg);
+    background-attachment:fixed;background-repeat: no-repeat;background-size: cover;">
+        <img class="picture" src="https://m.economictimes.com/thumb/msid-73295898,width-1200,height-900,resizemode-4,imgsize-187943/dhoni.jpg" alt="dhoni" 
+        width="200px" height="200px" class="picture"/>
+        <p style="text-align: center;font-size: 20px;font-family: Verdana, Geneva, Tahoma, sans-serif;">
+            Name: MR. MAHENDRA SINGH DHONI <br>
+            Born: July 07,1981,Ranchi,Bihar<br>
+            Age: 40<br>
+            Matches played:538 <br>
+            Runs scored:17266 <br>
+
+        </p>
+
+       
+    </body>
+</html>
